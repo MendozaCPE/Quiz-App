@@ -20,7 +20,11 @@
     <div class="content-container">
         <h1>QUIZSHITS</h1>
         <div class="button-container-grid">
-            <button class="btn">Start Quiz</button>
+            <a href="/pages/start.php">
+                <button class="btn">
+                    Start Quiz
+                </button>
+            </a>
         </div>
     </div>
     <div class="container">
@@ -130,4 +134,6 @@
         </div>
 </body>
 </html>
+
 <script src="../js/particles_bg.js"></script>
+<script src="../js/calendar.js"></script>
